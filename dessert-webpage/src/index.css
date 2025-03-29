@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: antiquewhite;
+}
+.container{
+  display: flex;
+  margin: 50px auto;
+ 
+}
+.menu{
+  display: flex;
+  flex: 1;
+
+}
+
+.order{
+  height: fit-content;
+  display: flex;
+  width:300px;
+
+}
